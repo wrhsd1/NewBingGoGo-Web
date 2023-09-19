@@ -41,8 +41,8 @@
 ### 一键部署到免费的云服务器
 |服务商 点击图标一键部署|简介|
 |---|---|
-|[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/GE_YVq?referralCode=s40fic)|Railway|
-|[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/jianjianai/NewBingGoGo-Web)|Render|
+|[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/GE_YVq?referralCode=s40fic)|Railway(不可用，已被屏蔽)|
+|[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/jianjianai/NewBingGoGo-Web)|Render(不可用，已被屏蔽)|
 |[![Deploy to Replit]()](https://replit.com/@jianjianai/NewBingGoGo-Web)|replit|
 
 
@@ -86,5 +86,3 @@ NewBingGoGo-web既可以是一个网页服务，也可以是NewBingGoGo的魔法
 | 通过机器人验证| ✔ | ✔  | 当请求频繁时，微软要求通过机器人验证，就是输入验证码|
 
 
-## 其他
-暂时停更一段时间，6月10日之后继续更新。
